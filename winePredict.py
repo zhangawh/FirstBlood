@@ -14,3 +14,5 @@ print  'change something'
 print  "change for the second time"
 
 print  "The Third change"
+
+print  "add and commit used for different stage"
